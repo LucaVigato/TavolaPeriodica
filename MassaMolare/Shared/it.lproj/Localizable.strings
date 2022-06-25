@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  MassaMolare
+
+  Created by Luca Vigato on 07/05/22.
+  
+*/
+
+
+"massa-molare %@" = "Massa molare: %@ g/mol";
+"tavola" = "Tavola";
+"testo" = "Scrivi";
+"el-neg" = "Elettronegatività";
+"impostazioni" = "Impostazioni";
+"%@ selezionati %@" = "%@ elementi selezionati: %@";
+"elment" = "Schiaccia su \"Elemento\" per scegliere l'elemento";
+"elemento" = "Scrivi la formula qua";
+"elemento %@" = "Elemento: %@";
+"numero-atomico %@" = "Numero atomico: %@";
+"classe %@" = "Classe: %@";
+"n-o %@" = "Numeri di ossidazione: %@";
+"configurazione %@" = "Configurazione elettronica: %@";
+"el-neg %@" = "Elettronegatività: %@ Pauling";
+"satp %@" = "Stato in SATP: %@";
+"fusione %@" = "Temperatura di fusione: %@ K";
+"ebolli %@" = "Temperatura di ebollizione: %@ K";
+"calcola" = "Calcola";
+"differenza %@" = "Differenza di elettronegatività: %@";
+"legame-ionico" = "Legame ionico";
+"legame-covalente" = "Legame covalente";
+"informazioni" = "Informazioni";
+"info" = "Informazioni";
+"icon" = "Cambia Icona";
+"supporto" = "Supporto";
+"maiuscole" = "Inserisci le lettere maiuscole e minucole corrette";
+"calcoli" = "Calcoli";
+"radio" = "Radioattivo";
+"nradio" = "Non radioattivo";
+"density %@" = "Densità: %@ g/L";
